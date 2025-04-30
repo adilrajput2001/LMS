@@ -1,0 +1,255 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = LMS
+build_property.RootNamespace = LMS
+build_property.ProjectDir = /workspaces/LMS/LMS/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /workspaces/LMS/LMS
+build_property._RazorSourceGeneratorDebug = 
+
+[/workspaces/LMS/LMS/Views/Complaint/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29tcGxhaW50L0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/LMS/LMS/Views/Complaint/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29tcGxhaW50L0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/LMS/LMS/Views/Complaint/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29tcGxhaW50L0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/LMS/LMS/Views/Complaint/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29tcGxhaW50L0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/LMS/LMS/Views/Complaint/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29tcGxhaW50L0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/LMS/LMS/Views/Customer/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ3VzdG9tZXIvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/LMS/LMS/Views/Customer/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ3VzdG9tZXIvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/LMS/LMS/Views/Customer/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ3VzdG9tZXIvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/LMS/LMS/Views/Customer/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ3VzdG9tZXIvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/LMS/LMS/Views/Customer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ3VzdG9tZXIvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/LMS/LMS/Views/Delivery/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVsaXZlcnkvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/LMS/LMS/Views/Delivery/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVsaXZlcnkvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/LMS/LMS/Views/Delivery/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVsaXZlcnkvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/LMS/LMS/Views/Delivery/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVsaXZlcnkvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/LMS/LMS/Views/Delivery/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVsaXZlcnkvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/LMS/LMS/Views/Feedback/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRmVlZGJhY2svQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/LMS/LMS/Views/Feedback/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRmVlZGJhY2svRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/LMS/LMS/Views/Feedback/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRmVlZGJhY2svRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/LMS/LMS/Views/Feedback/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRmVlZGJhY2svRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/LMS/LMS/Views/Feedback/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRmVlZGJhY2svSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/LMS/LMS/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/LMS/LMS/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/LMS/LMS/Views/Inventory/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSW52ZW50b3J5L0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/LMS/LMS/Views/Inventory/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSW52ZW50b3J5L0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/LMS/LMS/Views/Inventory/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSW52ZW50b3J5L0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/LMS/LMS/Views/Inventory/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSW52ZW50b3J5L0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/LMS/LMS/Views/Inventory/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSW52ZW50b3J5L0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/LMS/LMS/Views/Laundryorder/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTGF1bmRyeW9yZGVyL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/LMS/LMS/Views/Laundryorder/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTGF1bmRyeW9yZGVyL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/LMS/LMS/Views/Laundryorder/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTGF1bmRyeW9yZGVyL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/LMS/LMS/Views/Laundryorder/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTGF1bmRyeW9yZGVyL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/LMS/LMS/Views/Laundryorder/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTGF1bmRyeW9yZGVyL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/LMS/LMS/Views/Orderdetail/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3JkZXJkZXRhaWwvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/LMS/LMS/Views/Orderdetail/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3JkZXJkZXRhaWwvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/LMS/LMS/Views/Orderdetail/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3JkZXJkZXRhaWwvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/LMS/LMS/Views/Orderdetail/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3JkZXJkZXRhaWwvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/LMS/LMS/Views/Orderdetail/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3JkZXJkZXRhaWwvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/LMS/LMS/Views/Payment/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGF5bWVudC9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/LMS/LMS/Views/Payment/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGF5bWVudC9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/LMS/LMS/Views/Payment/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGF5bWVudC9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/LMS/LMS/Views/Payment/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGF5bWVudC9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/LMS/LMS/Views/Payment/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGF5bWVudC9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/LMS/LMS/Views/Service/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2VydmljZS9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/LMS/LMS/Views/Service/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2VydmljZS9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/LMS/LMS/Views/Service/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2VydmljZS9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/LMS/LMS/Views/Service/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2VydmljZS9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/LMS/LMS/Views/Service/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2VydmljZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/LMS/LMS/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/LMS/LMS/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/LMS/LMS/Views/Staff/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3RhZmYvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/LMS/LMS/Views/Staff/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3RhZmYvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/LMS/LMS/Views/Staff/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3RhZmYvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/LMS/LMS/Views/Staff/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3RhZmYvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/LMS/LMS/Views/Staff/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3RhZmYvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/LMS/LMS/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/LMS/LMS/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/LMS/LMS/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-jw6uifookt

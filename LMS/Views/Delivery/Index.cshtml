@@ -1,0 +1,53 @@
+@model IEnumerable<LMS.Models.Delivery>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Deliverytime)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Deliverystatus)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Order)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Staff)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Deliverytime)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Deliverystatus)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Order.Orderid)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Staff.Staffid)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Deliveryid">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Deliveryid">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Deliveryid">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
